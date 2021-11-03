@@ -1,1 +1,1 @@
-# niranjanblank-TwitterSentimentAnalysisUsingNaiveBayes
+# Twitter Sentiment Analysis Using Naive Bayes
